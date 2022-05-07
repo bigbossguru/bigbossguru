@@ -4,7 +4,6 @@
 ### I'm a Software Engineer
 - ⚡  I love my job, like solving different issues, create a new apps, and help people
 - 📚 I'm constantly learning new skills and striving for progress
-- 🏆 Goal: will be the full stack software engineer and learn all the subtleties and tricks
 
 
 ### Technical skills:
