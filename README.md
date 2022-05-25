@@ -42,7 +42,6 @@
 <br />
 <br />
 
-### 🏆 My website Portfolio:
-https://bigbossguru.github.io/MyWebsitePortfolio/
+### 🏆 My website Portfolio: https://bigbossguru.github.io/MyWebsitePortfolio/
 
 [linkedin]: https://www.linkedin.com/in/eldar-gazizov
