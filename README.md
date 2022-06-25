@@ -9,8 +9,11 @@
 ### Technical skills:
 - Algorithms & data structures
 - Python (OOP, REST API, Django, pandas, ML)
+- JavaScript
 - Database (SQLite, PostgreSQL, MongoDB)
-- Docker (create, build and run image, container)
+- Docker (Compose, Swarm)
+- Kubernetes
+- Jenkins
 - UML & ER diagrams
 
 
