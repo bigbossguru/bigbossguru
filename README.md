@@ -12,7 +12,6 @@
 - JavaScript
 - Database (SQLite, PostgreSQL, MongoDB)
 - Docker (Compose, Swarm)
-- Kubernetes
 - Jenkins
 - UML & ER diagrams
 
