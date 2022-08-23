@@ -19,8 +19,7 @@
 ### My Full Stack Tech:
 - Backend:
   - Django & REST Framework
-  - Celery
-  - FastAPI
+  - FastAPI / Flask
 - Database:
   - PostgreSQL
   - MongoDB
