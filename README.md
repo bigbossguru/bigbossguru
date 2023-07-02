@@ -2,14 +2,15 @@
 ### Hello 👋, I'm Eldar Gazizov
 
 ### I'm a Software Engineer
-- ⚡  I love my job, like solving different issues, create a new apps, and help people
-- 📚 I'm constantly learning new skills and striving for progress
+- ⚡ I love my job, like solving different issues, creating new apps, and helping people
+- 📚 I'm constantly learning new skills and striving to progress
 
 
 ### Technical skills:
-- Algorithms & data structures
+- Algorithms & Data structures
 - Python (OOP, REST API, Django, pandas, ML)
-- JavaScript
+- JavaScript (Frontend, ReactJS)
+- C/C++ (Embedded systems)
 - Database (SQLite, PostgreSQL, MongoDB)
 - Docker (Compose, Swarm)
 - Jenkins
