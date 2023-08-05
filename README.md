@@ -17,17 +17,6 @@
 - UML & ER diagrams
 
 
-### My Full Stack Tech:
-- Backend:
-  - Django & REST Framework
-  - FastAPI / Flask
-- Database:
-  - PostgreSQL
-  - MongoDB
-- Frontend:
-  - React JS
-
-
 ### 📬 Connect with me:
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eldar Gazizov | LinkedIn" height="30" width="40" />][linkedin]
 
