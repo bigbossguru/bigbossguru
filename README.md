@@ -35,4 +35,6 @@
 
 ### 🏆 My website Portfolio: https://bigbossguru.github.io/MyWebsitePortfolio/
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/kursus1010.png" alt="TryHackMe">
+
 [linkedin]: https://www.linkedin.com/in/eldar-gazizov
