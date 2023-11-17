@@ -14,7 +14,7 @@
 - 💬 Ask me about **everything about programming if I'll know to answer you**
 - 📫 How to reach me **eldar_gazizov@rapid7.com**
 - 📄 Know about my experiences [https://bigbossguru.github.io/MyWebsitePortfolio](https://bigbossguru.github.io/MyWebsitePortfolio)
-- ⚡ Fun fact **sometimes I try to learn to play on the guitar**
+- ⚡ Fun fact **sometimes I try to learn to play the guitar**
 
 
 <h3 align="left">🛠 Languages and tools:</h3>
@@ -40,8 +40,12 @@
 <h3 align="left">&nbsp;🔥&nbsp;My Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigbossguru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigbossguru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/bigbossguru/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bigbossguru&theme=dark&rank_icon=github" />
+  </a>
+  <a href="https://github.com/bigbossguru/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigbossguru&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
 </div>
 
 
