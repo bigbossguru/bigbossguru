@@ -9,7 +9,7 @@
 <h3 align="left">👩‍💻 About Me:</h3>
 
 - 🔭 I’m currently working on **cybersecurity automation vulnerability detection framework**
-- 🌱 I’m currently learning **CI/CD pipelines, IPC sync/async, Orchestration**
+- 🌱 I’m currently learning **CI/CD pipelines, IPC sync/async, Orchestration, DevOps**
 - 👨‍💻 All of my projects are available at [https://bigbossguru.github.io/MyWebsitePortfolio](https://bigbossguru.github.io/MyWebsitePortfolio)
 - 💬 Ask me about **everything about programming if I'll know to answer you**
 - 📫 How to reach me **eldar_gazizov@rapid7.com**
@@ -41,10 +41,10 @@
 
 <div align="center">
   <a href="https://github.com/bigbossguru/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bigbossguru&theme=dark&rank_icon=github" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bigbossguru&theme=dark&rank_icon=github&bg_color=0d1117&show_icons=true" />
   </a>
   <a href="https://github.com/bigbossguru/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigbossguru&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigbossguru&layout=compact&langs_count=8&card_width=320&theme=dark&bg_color=0d1117&show_icons=true" />
   </a>
 </div>
 
