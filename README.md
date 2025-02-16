@@ -10,10 +10,9 @@
 
 - 🔭 I’m currently working on **cybersecurity automation vulnerability detection framework**
 - 🌱 I’m currently learning **CI/CD pipelines, IPC sync/async, Orchestration, DevOps**
-- 👨‍💻 All of my projects are available at [https://bigbossguru.github.io/MyWebsitePortfolio](https://bigbossguru.github.io/MyWebsitePortfolio)
+- 👨‍💻 All of my projects are available at [my website](https://bigbossguru.github.io/MyWebsitePortfolio)
 - 💬 Ask me about **everything about programming if I'll know to answer you**
-- 📫 How to reach me **kursus1010@gmail.com**
-- 📄 Know about my experiences [https://bigbossguru.github.io/MyWebsitePortfolio](https://bigbossguru.github.io/MyWebsitePortfolio)
+- 📄 Know about my experiences [my website](https://bigbossguru.github.io/MyWebsitePortfolio)
 - ⚡ Fun fact **sometimes I try to learn to play the guitar**
 
 
